@@ -22,4 +22,4 @@ UAT Tester & End-user Trainer
 - 테스트 과정에서 발생한 테크니컬 이슈를 JIRA에 기록하고 Solution Architect와 협력하여 문제 해결
 
 ## ✅ 성과
-- 유저의 빠른 적응을 도와 프로젝트 초기 안정성 확보에 기여
+- 유저의 빠른 시스템 적응을 도와 원활한 UAT 테스트 진행에 기여
